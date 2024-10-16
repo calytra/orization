@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.7
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.6...v0.0.7)
+
+### 🏡 Chore
+
+- Test autofix ([#1](https://github.com/calytra/orization/pull/1))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.6
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.5...v0.0.6)
