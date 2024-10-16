@@ -1,5 +1,5 @@
-import { describe, it, expect } from "vitest";
-import type { Policy } from "./types";
+import { describe, it, expect } from 'vitest';
+import type { Policy } from './types';
 
 interface TestCase<TData> {
   description?: string;
