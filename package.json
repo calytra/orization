@@ -1,24 +1,24 @@
 {
 	"name": "@calytra/orization",
 	"version": "0.0.8",
-	"files": [
-		"dist",
-		"package.json"
-	],
+	"sideEffects": false,
+	"type": "module",
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
 			"import": "./dist/index.mjs",
-			"require": "./dist/index.js"
+			"require": "./dist/index.cjs"
 		}
 	},
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.mjs",
 	"types": "./dist/index.d.ts",
-	"type": "module",
+	"files": [
+		"dist"
+	],
 	"scripts": {
-		"build": "tsup ./src/index.ts",
-		"dev": "tsup ./src/index.ts --watch",
+		"build": "unbuild",
+		"dev": "vitest dev",
 		"lint": "eslint . && prettier -c src",
 		"lint:fix": "eslint . --fix && prettier -w src",
 		"release": "pnpm test && pnpm build && changelogen --release --push && npm publish",
@@ -33,6 +33,7 @@
 		"prettier": "^3.3.2",
 		"tsup": "^8.2.4",
 		"typescript": "^5.6.3",
+		"unbuild": "^2.0.0",
 		"vitest": "^2.1.1"
 	},
 	"packageManager": "pnpm@9.12.2+sha512.22721b3a11f81661ae1ec68ce1a7b879425a1ca5b991c975b074ac220b187ce56c708fe5db69f4c962c989452eee76c82877f4ee80f474cebd61ee13461b6228"
