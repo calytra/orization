@@ -1,6 +1,24 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.3...v0.0.4)
+
+### 🏡 Chore
+
+- Create LICENSE ([9a87e17](https://github.com/calytra/orization/commit/9a87e17))
+- Fix readme ([a446be4](https://github.com/calytra/orization/commit/a446be4))
+
+### 🤖 CI
+
+- Add dependabot.yml ([2b8c186](https://github.com/calytra/orization/commit/2b8c186))
+- Add workflows ([5a8de02](https://github.com/calytra/orization/commit/5a8de02))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.3
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.2...v0.0.3)
