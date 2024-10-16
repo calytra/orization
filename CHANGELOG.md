@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.8
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.7...v0.0.8)
+
+### 📦 Build
+
+- Fix package build ([241c895](https://github.com/calytra/orization/commit/241c895))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.7
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.6...v0.0.7)
