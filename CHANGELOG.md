@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.4...v0.0.5)
+
+### 🤖 CI
+
+- Fix dependabot ([6daa895](https://github.com/calytra/orization/commit/6daa895))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.4
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.3...v0.0.4)
