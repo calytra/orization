@@ -1,7 +1,7 @@
 import { nanoid } from "nanoid";
 import { testIfElsePolicy } from "../../tests";
 import { hasProperty } from "../testPolicies";
-import { ifElse } from "./ifElse";
+import { ifElse } from "./if-else";
 
 const randKeyCondition = nanoid();
 const randKeyThen = nanoid();

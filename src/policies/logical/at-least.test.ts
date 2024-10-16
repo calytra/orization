@@ -3,7 +3,7 @@
 import { nanoid } from "nanoid";
 import { testParameterizedPolicy } from "../../tests";
 import { hasProperty } from "../testPolicies";
-import { atLeast } from "./atLeast";
+import { atLeast } from "./at-least";
 
 const randKey1 = nanoid();
 const randKey2 = nanoid();
