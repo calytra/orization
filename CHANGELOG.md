@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.0.11
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.10...v0.0.11)
+
+### 🩹 Fixes
+
+- Remove Accidental Commited File ([d943efe](https://github.com/calytra/orization/commit/d943efe))
+
+### 🏡 Chore
+
+- Fix GitIgnore ([f1fb7ab](https://github.com/calytra/orization/commit/f1fb7ab))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.10
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.9...v0.0.10)
