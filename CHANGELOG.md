@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.0.10
+
+[compare changes](https://github.com/calytra/orization/compare/v0.0.9...v0.0.10)
+
+### 🏡 Chore
+
+- Add ReadMe ([71b083c](https://github.com/calytra/orization/commit/71b083c))
+
+### ✅ Tests
+
+- Fix XOR test file ([97f0688](https://github.com/calytra/orization/commit/97f0688))
+
+### ❤️ Contributors
+
+- Connor Winston <connor@winston.guru>
+
 ## v0.0.9
 
 [compare changes](https://github.com/calytra/orization/compare/v0.0.8...v0.0.9)
